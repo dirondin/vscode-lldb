@@ -3,3 +3,5 @@ build*/
 target/
 node_modules/
 *.pyc
+lldb/bin/*
+lldb/lib/*.*
